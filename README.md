@@ -1,5 +1,5 @@
 - 👋 Hi, I’m haseeb gul
 - 👀 I’m interested in front end web development, open source project and learning new technologies
-- 🌱 I’m currently learning front end technologies like javascript
+- 🌱 I’m currently learning front end technologies like html,css, javascript and react
 - 📫 Reach me through Gmail: ib.haseebgul@gmail.com
 - 😄 Pronouns: he/him
