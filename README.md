@@ -1,8 +1,8 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=HASEEB%20GUL&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&color=0:5A1A00,50:D94F00,100:FF6201" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=HASEEB%20GUL&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&color=0:030712,25:172554,50:3730A3,75:BE185D,100:F97316" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FF6201&center=true&vCenter=true&width=650&lines=Frontend+React+%26+Next.js+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=FB923C&center=true&vCenter=true&width=700&lines=Frontend+Engineer+%7C+React.js+%7C+Next.js;Crafting+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Products" alt="Typing SVG" />
 
 <br />
 
@@ -65,6 +65,6 @@ Motto: Turning ideas into fast, beautiful and scalable web experiences.
 <img src="https://streak-stats.demolab.com?user=ib-haseebgul&theme=transparent&hide_border=true&border_radius=15&background=0D1117&ring=FF6201&fire=FDBA74&currStreakLabel=FF6201&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FDBA74&dates=9CA3AF" />
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF6201&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Create+%E2%80%A2+Improve+%E2%80%A2+Repeat"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=100000&color=FF6201&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Create+%E2%80%A2+Improve+%E2%80%A2+Repeat"/>
 </p>
 </div>
