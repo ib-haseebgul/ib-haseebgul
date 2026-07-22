@@ -1,5 +1,3 @@
-<div>
-
 <h1> Hi there, I'm Haseeb Gul! 👋</h1>
 
 <p>
@@ -37,5 +35,3 @@ Building modern SaaS applications, responsive web experiences, and scalable fron
 </a>
 
 </p>
-
-</div>
